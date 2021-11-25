@@ -66,6 +66,16 @@ input[type="submit"] {
     color: white;
     background-color: rgb(253, 61, 61);
     font-weight: bold;
+    transition: 0.3s
+}
+
+input[type="submit"]:hover {
+    background-color: rgb(185, 37, 37);
+}
+
+input[type="submit"]:active {
+    margin-left: 2px;
+    margin-right: 2px;
 }
 
 
