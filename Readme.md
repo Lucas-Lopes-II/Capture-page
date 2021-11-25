@@ -1,11 +1,11 @@
 # 🚧 Under construction 🚧
 
-![Capture Page](img/readme/to-do_list.gif "capture page")
+![Capture Page](./images/template.gif "capture page")
 <br/><br/><br/><br/>
 
 # Capture page
 
->This is a _capture page template_ for marketing a business talk designed to exponentially increase ticket sales. 
+>This is a _capture page template_ for marketing a business talk designed to exponentially increase ticket sales 🚀🚀🚀 
 ---
 <br/><br/>
 
