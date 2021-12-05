@@ -118,3 +118,76 @@ footer {
 .description h3 {
     font-size: 24px;
 }
+
+@media screen and (max-width: 700px) {
+
+    #form-container {
+        float: none;
+        margin: auto;
+    }
+
+    footer {
+        padding: 20px;
+    }
+    
+    
+    .speaker {
+        display: block;
+        margin: auto;
+        width: 140x;
+    }
+    
+    
+    .description {
+        display: block;
+        max-width: 90%;
+        margin: 10px 10px 0 20px;
+    }
+
+    .description h3 {
+        font-size: 20px;
+    }
+
+    .description p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .title {
+        font-size: 24px;
+        }
+
+        
+    footer {
+        padding: 15px;
+    }
+    
+    
+    .speaker {
+        width: 110x;
+    }
+
+    .description h3 {
+        font-size: 18px;
+    }
+
+    .description p {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 550px) {   
+    
+    .speaker {
+        width: 108px;
+    }
+
+    .description h3 {
+        font-size: 16px;
+    }
+
+    .description p {
+        font-size: 12px;
+    }
+}
