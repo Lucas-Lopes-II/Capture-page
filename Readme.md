@@ -1,5 +1,3 @@
-# 🚧 Under construction 🚧
-
 ![Capture Page](./images/template.gif "capture page")
 <br/><br/><br/><br/>
 
